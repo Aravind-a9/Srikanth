@@ -1,0 +1,33 @@
+#box1 {
+    height:auto;
+    background-color:#e6e6e6;
+  
+}
+#box2 {
+    height:100%; 
+} 
+.container > .d-flex > .sidebar >.text
+{
+    color: indigo;
+    font-size: 35px;
+}
+#brdr {
+    border:black;
+    border-width: 1px;
+    border-style: solid;
+    padding: 15px;
+    background-color:lightcyan;
+}
+.text1
+    {
+        color: indigo;
+        font-size: 35px;
+    }
+.text2
+    {
+        color: indigo;
+        font-size: 25px;
+    }
+ 
+
+ 
